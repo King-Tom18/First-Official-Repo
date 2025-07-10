@@ -79,8 +79,8 @@ print("Ravenclaw: ", ravenclaw)
 print("Hufflepuff: ", hufflepuff)
 print("Slytherin: ", slytherin)
 
-# Bonus Part
-
+# Print user's house based on scores
+        
 if gryffindor >= ravenclaw and gryffindor >= hufflepuff and gryffindor >= slytherin:
     print('🦁 Gryffindor!')
 elif ravenclaw >= hufflepuff and ravenclaw >= slytherin:
